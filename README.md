@@ -2,6 +2,8 @@
 ### Summary:
 Dataset published by Kaggle user Gabriel Preda. Collection using the Python package Tweepy on COVID-19 Vaccine related tweets from 2020. The dataset was updated daily (twice a day) up until January 2022. The initial dataset only scraped tweets relating to the Pfizer/BioNTech vaccine. The dataset was later updated to include tweets relating to additional vaccines such as Sinopharm, Sinovac, Moderna, Oxford/AstraZeneca, Covaxin, and Sputnik V vaccines.
 
+###Source: https://www.kaggle.com/datasets/gpreda/all-covid19-vaccines-tweets
+
 
 ### Basic Descriptive Statistics:
 N - 1825890
