@@ -4,6 +4,24 @@ Dataset published by Kaggle user Gabriel Preda. Collection using the Python pack
 
 Source: https://www.kaggle.com/datasets/gpreda/all-covid19-vaccines-tweets
 
+### Tags:
+sentiment analysis
+time-series analysis
+data collection methods
+twitter data
+API
+scraped data
+data Visualization
+public opinion
+
+### Social Science Fields:
+Public Health
+Public Policy
+Public Opinion
+Politics
+Economics
+
+
 
 ### Basic Descriptive Statistics:
 N - 1825890
@@ -39,17 +57,6 @@ Do tweets about vaccines coincide with daily vaccinations administered?
 ### Shortcomings:
 Missing data between 2021-04-22 and 2021-05-13
 Location data missing or in inconsistent format
-
-
-### Tags:
-sentiment analysis
-time-series analysis
-data collection methods
-twitter data
-API
-scraped data
-data Visualization
-public opinion
 
 
 ### Cleaning Steps:
